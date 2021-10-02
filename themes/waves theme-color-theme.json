@@ -59,19 +59,8 @@
 		"statusBar.background": "#0f1a24",//0f1a24
 		"statusBar.foreground": "#cfd0d4",//d7d8dd color texto menus
 		//
-"banner.background": "#ff0000",
-"list.dropBackground": "#ff0000",
-"checkbox.background": "#ff0000",
-"editorPane.background": "#ff0000",
-"inputOption.activeBackground": "#ff0000",
-"selection.background": "#ff0000",
-"welcomePage.background": "#ff0000",
-"debugToolBar.background": "#ff0000",
 
-
-"quickInput.background": "#171C28",
-
-
+		"quickInput.background": "#171C28",
 		"textLink.foreground": "#14ffff",
 		"textLink.activeForeground": "#39f0e7d0"
 
