@@ -1,0 +1,21 @@
+{
+    "name": "waves",
+    "displayName": "waves",
+    "description": "waves colors, i love it",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "waves theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/waves theme-color-theme.json"
+            }
+        ]
+    }
+}
